@@ -87,10 +87,7 @@ if(isset($_POST["getProduct"])){
 			<div class='col-md-2 col-xs-6'>£$pro_price</div>
 			<div class='col-md-1 col-xs-6'>
 			<a href='#' pid='$pro_id' style='float:right;' data-toggle='modal' data-target='#assignSubcat' class='btn btn-danger btn-sm pwithsubcat'>Add</a></div>";
-			}
-			
-			
-			
+			}			
 		}
 	}
 }
