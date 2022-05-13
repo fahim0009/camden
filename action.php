@@ -92,6 +92,7 @@ if(isset($_POST["getProduct"])){
 	}
 }
 
+
 // *************** get single product with assign subcategory***************** 
 
 if(isset($_POST["get_p_ForsubC"]) & isset($_POST["pforscat_id"])){
