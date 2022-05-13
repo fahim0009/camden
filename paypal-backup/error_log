@@ -1,0 +1,15 @@
+[29-Oct-2020 20:28:31 Europe/London] PHP Fatal error:  Uncaught Exception: Missing POST Data in /home3/wowmartb/public_html/camden/paypal/PaypalIPN.php:57
+Stack trace:
+#0 /home3/wowmartb/public_html/camden/paypal/IPNHandler.php(11): PaypalIPN->verifyIPN()
+#1 {main}
+  thrown in /home3/wowmartb/public_html/camden/paypal/PaypalIPN.php on line 57
+[29-Oct-2020 20:47:40 Europe/London] PHP Fatal error:  Uncaught Exception: Missing POST Data in /home3/wowmartb/public_html/camden/paypal/PaypalIPN.php:57
+Stack trace:
+#0 /home3/wowmartb/public_html/camden/paypal/IPNHandler.php(11): PaypalIPN->verifyIPN()
+#1 {main}
+  thrown in /home3/wowmartb/public_html/camden/paypal/PaypalIPN.php on line 57
+[29-Oct-2020 20:48:38 Europe/London] PHP Fatal error:  Uncaught Exception: Missing POST Data in /home3/wowmartb/public_html/camden/paypal/PaypalIPN.php:57
+Stack trace:
+#0 /home3/wowmartb/public_html/camden/paypal/IPNHandler.php(11): PaypalIPN->verifyIPN()
+#1 {main}
+  thrown in /home3/wowmartb/public_html/camden/paypal/PaypalIPN.php on line 57

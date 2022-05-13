@@ -1,0 +1,1 @@
+[22-Oct-2020 07:28:25 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/wowmartb/public_html/camden/admin/delete.php:4) in /home3/wowmartb/public_html/camden/admin/delete.php on line 9
